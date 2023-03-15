@@ -6,4 +6,6 @@ wine types: red wine,white wine
 
 red wine: cab.sauv,merlot
 
+white wine: chard,sau.blanc.
+
 Thank you.
