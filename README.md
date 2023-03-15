@@ -8,4 +8,6 @@ red wine: cab.sauv,merlot
 
 white wine: chard,sau.blanc.
 
+whisky
+
 Thank you.
